@@ -1,0 +1,25 @@
+{
+  "city": {
+    "London": {
+      "temperature": 27,
+      "description": "sunny",
+      "precipitation": 0
+    },
+    "Paris": {
+      "temperature": 32,
+      "description": "sunny with scattered cloud",
+      "precipitation": 2
+    },
+    "Berlin": {
+      "temperature": 20,
+      "description": "cloudy with drizzle",
+      "precipitation": 80
+    },
+    "Barcelona": {
+      "temperature": 35,
+      "description": "stormy",
+      "precipitation": 70
+    }
+
+  }
+}
